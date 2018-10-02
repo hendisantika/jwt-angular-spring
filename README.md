@@ -25,3 +25,22 @@ The simple Angular app shows a login page. On successful login it checks with 't
 ## Running
 
 It is a standard Maven project and can be imported into your favorite IDE. You run the example by starting the WebApplication class (it has a main) and navigating to http://localhost:8080/. If everything is correct you should see a "Welcome to the JSON Web Token / AngularJR / Spring example!" message and a login form.
+
+
+### Screenshot
+
+Login Page
+
+![Login Page](img/login.png "Login Page")
+
+Naruto Page
+
+![Naruto Page](img/naruto.png "Naruto Page")
+
+Hendi Page
+
+![Hendi Page](img/hendi.png "Hendi page")
+
+Sasuke Page
+
+![Sasuke Page](img/sasuke.png "Sasuke Page")
