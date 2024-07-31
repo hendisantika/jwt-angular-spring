@@ -10,7 +10,7 @@
 
         <commons.io.version>2.7</commons.io.version>
         <jjwt.version>0.12.6</jjwt.version>
-        <junit.version>4.13.1</junit.version>
+        <junit.version>4.13.2</junit.version>
         <spring.boot.version>3.3.1</spring.boot.version>
     </properties>
 
