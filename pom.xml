@@ -11,7 +11,7 @@
         <commons.io.version>2.18.0</commons.io.version>
         <jjwt.version>0.12.6</jjwt.version>
         <junit.version>4.13.2</junit.version>
-        <spring.boot.version>3.4.0</spring.boot.version>
+        <spring.boot.version>3.4.1</spring.boot.version>
     </properties>
 
     <build>
